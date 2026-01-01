@@ -13,4 +13,4 @@ Advanced client-side Billboard Overlay for Roblox executors.
 
 ## 🚀 Usage (Loadstring)
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/USERNAME/Delta-Custom-Overlay/main/loader.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/syaaikoo/fake-tag-delta-esekutor-/refs/heads/main/src/main.lua", true))()
